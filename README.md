@@ -13,3 +13,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlsoShantanuBorkar)](https://github.com/AlsoShantanuBorkar)
 
 [![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlsoShantanuBorkar)](https://github.com/AlsoShantanuBorkar/)
+
+![](https://komarev.com/ghpvc/?username=AlsoShantanuBorkar)
