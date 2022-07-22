@@ -10,3 +10,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Anime & Movies
 - ⚡ Fun fact: I like to play Badmintion
 
+-[![Shantanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlsoShantanuBorkar)](https://github.com/AlsoShantanuBorkar/github-readme-stats)
