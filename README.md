@@ -1,3 +1,6 @@
+
+<img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 # 💫 About Me:
 🔭 I’m currently working on DSA and Projects<br>🌱 I’m currently learning ReactJS & DSA<br>💬 Ask me about Games & Anime<br>⚡ Fun fact : I like to play Badmintion & Listen to Music
 
@@ -18,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alsoshantanuborkar&show_icons=true&theme=dark&hide_border=true&locale=en" alt="alsoshantanuborkar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alsoshantanuborkar&theme=dark" alt="alsoshantanuborkar" /></p>
+
