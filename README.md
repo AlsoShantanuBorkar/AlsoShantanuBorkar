@@ -2,7 +2,7 @@
 <img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 # 💫 About Me:
-🔭 I’m currently working on DSA and Projects<br>🌱 I’m currently learning Flutter<br>💬 Ask me about Games & Anime<br>⚡ Fun fact : I like to play Badmintion & Listen to Music
+🔭 I’m currently working on DSA and Projects<br>🌱 I’m currently learning Golang and Kotlin<br>💬 Ask me about Games & Anime<br>⚡ Fun fact : I like to play Badmintion & Listen to Music
 
 
 <h3 align="left">Connect with me:</h3>
