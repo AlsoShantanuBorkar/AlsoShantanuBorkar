@@ -1,8 +1,6 @@
 
-<img src = "https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
 # 💫 About Me:
-🌱 I’m currently learning Python <br>💬 Ask me about Games & Anime<br>⚡ Fun fact : I like to play Badmintion & Listen to Music
+🌱 I’m currently learning Golang <br>💬 Ask me about Flutter & React
 
 
 <h3 align="left">Connect with me:</h3>
